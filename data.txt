@@ -440,3 +440,4 @@ ART: 2025-08-10T00:00:00 - Pixel for R
 ART: 2025-08-10T00:00:00 - Pixel for R
 ART: 2025-08-10T00:00:00 - Pixel for R
 ART: 2025-08-10T00:00:00 - Pixel for R
+ART: 2025-08-17T00:00:00 - Pixel for R
